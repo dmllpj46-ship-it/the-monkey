@@ -126,6 +126,18 @@ Reference-sheet layout (for new characters only): vertical sheet, full-body thre
 - **Never change**: 单缝视镜、警示黄斜带、三指夹钳、电击长杆、背部副臂。
 - Note: 本稿额外带六块局部细节图（头部转面、夹钳、长杆、背视、脚部、场景）。作页面参考时说明「忽略内嵌细节图，只用左侧全身与右上头肩像」。
 
+### 红狐女 — `red-fox.png`
+
+- **Role**: 兽星地下的黑帮头目，半机械化，做「门路」生意。看中的是八戒的力气。
+- **Build**: 成年狐女，约 30 岁，高瘦，站姿利落，不摆媚态。
+- **Head**: 赤红狐首与狐耳；一只天然琥珀眼、一只镀铬瞄准义眼；右侧颌骨为分段金属板；左耳有缺口与黄铜环。
+- **Half-mech**: 左臂整只义肢（枪灰加红漆装甲板、外露活塞与线束、三指机械手）；两条侧尾为分段镀铬+线缆、接缝发琥珀光，中尾为原尾；颈后有脊柱接口，锁骨有一排缝合钉。
+- **Costume**: 烟黑市集夹克配暗红狐毛领、金色拉链齿；工具挂带（开锁器、切割片、小罐）；粗腰带、炭灰工装裤、重靴、腿侧枪套。
+- **Weapon**: 短柄等离子撬棍，尖端发橙光。
+- **Palette**: 朱红、烟黑、铬灰、琥珀、暗金。
+- **Never change**: 狐首与狐耳、单只瞄准义眼、颌侧金属板、左臂义肢、三尾（一真两机械）、暗红毛领、等离子撬棍。
+- Note: 本稿带六块局部细节图（义肢、颈后接口、义眼、缝合钉、挂带、尾）。作页面参考时说明「忽略内嵌细节图，只用左侧全身与右侧头肩像」。
+
 ### Multi-character reference
 
 `lineup-bajie-wujing-sanzang.png` is a composite of the three pilgrimage sheets, left to right: 猪八戒 / 沙僧 / 唐僧. Use it when a panel needs all three and the 3-reference limit applies.

@@ -34,5 +34,10 @@ Follow `assets/characters/design-bible.md` for every character in frame. Page no
 | 024 | `ch01/p24.png` | 兽星牢房：兽人被智能机器统治 | `ch01/p24.md` |
 | 025 | `ch01/p25.png` | 地下世界做劳力，无法之地的市集与配给 | `ch01/p25.md` |
 | 026 | `ch01/p26.png` | 八戒独来独往，藏起师父兄弟的全息，等待机会 | `ch01/p26.md` |
+| 027 | `ch01/p27.png` | 红狐女看中八戒的力气 | `ch01/p27.md` |
+| 028 | `ch01/p28.png` | 红狐女要他盲抢车队，八戒拒绝 | `ch01/p28.md` |
+| 029 | `ch01/p29.png` | 黑帮劫持八戒，红狐女是主导人 | `ch01/p29.md` |
+| 030 | `ch01/p30.png` | 交易：抢成，就送他出地下世界 | `ch01/p30.md` |
+| 031 | `ch01/p31.png` | 八戒答应但不杀人；「这星球没有真人」 | `ch01/p31.md` |
 
 Page images carry no lettering; dialogue and SFX live in the `pNN.md` scripts and get added at the lettering stage.
