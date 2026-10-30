@@ -39,5 +39,11 @@ Follow `assets/characters/design-bible.md` for every character in frame. Page no
 | 029 | `ch01/p29.png` | 黑帮劫持八戒，红狐女是主导人 | `ch01/p29.md` |
 | 030 | `ch01/p30.png` | 交易：抢成，就送他出地下世界 | `ch01/p30.md` |
 | 031 | `ch01/p31.png` | 八戒答应但不杀人；「这星球没有真人」 | `ch01/p31.md` |
+| 032 | `ch01/p32.png` | 三号井隧道劫车，车队与机器人卫队开火 | `ch01/p32.md` |
+| 033 | `ch01/p33.png` | 帮派被压制，八戒一耙拆掉机器 | `ch01/p33.md` |
+| 034 | `ch01/p34.png` | 货抢到，八戒一个人背走货柜，头功 | `ch01/p34.md` |
+| 035 | `ch01/p35.png` | 红狐女引八戒穿过暗门，去见组织头目黑熊 | `ch01/p35.md` |
+| 036 | `ch01/p36.png` | 黑熊揭底：不是帮派，是这个星球的抵抗军 | `ch01/p36.md` |
+| 037 | `ch01/p37.png` | 八戒拒入伙；黑熊以「帮你找师父」成交 | `ch01/p37.md` |
 
 Page images carry no lettering; dialogue and SFX live in the `pNN.md` scripts and get added at the lettering stage.

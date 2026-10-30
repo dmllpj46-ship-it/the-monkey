@@ -138,6 +138,20 @@ Reference-sheet layout (for new characters only): vertical sheet, full-body thre
 - **Never change**: 狐首与狐耳、单只瞄准义眼、颌侧金属板、左臂义肢、三尾（一真两机械）、暗红毛领、等离子撬棍。
 - Note: 本稿带六块局部细节图（义肢、颈后接口、义眼、缝合钉、挂带、尾）。作页面参考时说明「忽略内嵌细节图，只用左侧全身与右侧头肩像」。
 
+### 黑熊 — `black-bear.png`
+
+- **Role**: 明面上是兽星地下的组织头目，实际是这个星球的抵抗军统帅。目标是打垮机械军团、解放兽人。
+- **Build**: 成年黑熊，约 2.1 m，体量极大但姿态沉稳，塌肩、前倾、站得像已经赢了在等人。
+- **Head / face**: 炭黑熊首；口鼻与下颌一圈灰白杂毛；小而深的琥珀色眼，耐心、精明，不发怒；左眼一道竖向旧疤；右耳 V 形缺口。
+- **Signature**: 胸口一整块骨白色月牙毛斑（亚洲黑熊特征），全身最亮的形状。
+- **Costume**: 泥点与磨损的土褐色油布长大衣，敞怀、下摆撕烂；内穿深褐盘扣棉袍、粗腰带、缠布小臂、护胫、钝头工靴。
+- **Trophy sash**: 从左肩斜挂到右胸的一串战利品——被击毁巡逻机器人的楔形头颅，冷青视镜仍亮，危险黄斜带与锈迹保留。
+- **Weapon**: 黑缨长枪——暗钢叶形枪头、由机器人活塞改的缠绳枪杆、枪头下系破布与铜丝做的黑穗。
+- **Gear**: 腰侧黄铜提灯；衣袋里插着一卷手绘隧道图。
+- **Palette**: 炭黑、土褐、骨白、牛血红点缀、冷青、黄铜。
+- **Never change**: 胸口骨白月牙、灰白口鼻、左眼竖疤、缺口右耳、机器人头颅绶带、黑缨长枪。
+- Note: 本稿右下角额外带三块机器人头颅细节图。作页面参考时说明「忽略内嵌细节图，只用左侧全身与右上头肩像」。
+
 ### Multi-character reference
 
 `lineup-bajie-wujing-sanzang.png` is a composite of the three pilgrimage sheets, left to right: 猪八戒 / 沙僧 / 唐僧. Use it when a panel needs all three and the 3-reference limit applies.
