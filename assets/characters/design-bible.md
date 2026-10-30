@@ -86,9 +86,29 @@ Reference-sheet layout (for new characters only): vertical sheet, full-body thre
 - **Palette**: white, saffron, gold, soft cyan.
 - **Never change**: gold brow circlet, star-chart sash, star-bead prayer beads, scroll, nine-ring staff.
 
+### 牛魔王 — `bull-demon.png`
+
+- **Age / build**: mature, colossal, wider than tall in the shoulders, heavy warlord stance.
+- **Head / face**: charcoal-black bull head, massive brass-banded horns sweeping wide, brass nose ring, ember-red eyes, shaggy crimson mane, scarred muzzle.
+- **Costume**: black and oxblood lacquered armor with gold edgework, furnace-stack shoulder plates venting smoke, glowing furnace core set in the chest, chain belt, ember-lined cape.
+- **Weapon**: colossal double-bladed war axe with a heated glowing edge.
+- **Palette**: charcoal, oxblood, brass, ember orange.
+- **Never change**: brass-banded horns and nose ring, furnace chest core, crimson mane, double-bladed axe.
+
+### 铁扇公主 — `iron-fan.png`
+
+- **Age / build**: adult, late 30s, tall and regal, upright bearing, never posed for fanservice.
+- **Hair / face**: black hair in a high dark bun pinned with gold, gold fan-shaped tiara with two short horn-like prongs, sharp composed eyes, oxblood lips.
+- **Costume**: crimson high-collar gown under black lacquer armor with gold trim, fan-shaped shoulder mantle, wind-core at the waist, long trailing sleeves.
+- **Weapon**: jade-green banana-leaf fan with gold ribs (Bajiao Shan), wreathed in a visible wind current.
+- **Palette**: crimson, black, gold, jade green.
+- **Never change**: fan-shaped tiara, shoulder mantle, wind-core, banana-leaf fan, regal posture.
+
 ### Multi-character reference
 
 `lineup-bajie-wujing-sanzang.png` is a composite of the three pilgrimage sheets, left to right: 猪八戒 / 沙僧 / 唐僧. Use it when a panel needs all three and the 3-reference limit applies.
+
+`lineup-bull-ironfan.png` is a composite of the two parent sheets, left to right: 牛魔王 / 铁扇公主. Use it when a page needs both parents plus one other reference.
 
 ## Using the anchors
 

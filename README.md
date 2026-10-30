@@ -18,8 +18,10 @@ The scriptures are gone. In their place, a signal older than the stars pulses at
 | 猪八戒 | `bajie` | 取经船重装工程师 · 前舰队炮手 | 灰蓝猪首、铜套獠牙、藏青压力袍、锈橙肩甲、圆腹甲、九齿重力耙 |
 | 沙僧 | `wujing` | 取经船军需官兼战地医师 | 蓝灰巨汉、光头铜须、深青长袍、生命维持颈环、九枚金属牌、月牙铲 |
 | 唐僧 | `sanzang` | 取经船领航者 · 导航僧 | 清瘦青年、金色导航额环、白与姜黄僧袍、星图腰带、发光经卷、九环杖 |
+| 牛魔王 | `bull-demon` | 火教宗主 · 红孩儿之父 | 炭黑牛首、巨角缠铜、鼻铜环、赤红鬃毛、黑与牛血红漆甲、熔炉胸核、双刃巨斧 |
+| 铁扇公主 | `iron-fan` | 火教宗主夫人 · 风系术者 | 高髻金钗、扇冠双角、牛血红唇、赤红高领长袍配黑漆甲、扇面肩甲、翠绿芭蕉扇 |
 
-Full design specs — colors, silhouettes, props, do-not-change list — live in [`assets/characters/design-bible.md`](assets/characters/design-bible.md). **Those five sheets are the single source of truth for character consistency.**
+Full design specs — colors, silhouettes, props, do-not-change list — live in [`assets/characters/design-bible.md`](assets/characters/design-bible.md). **Those ten sheets are the single source of truth for character consistency.**
 
 ## Visual style
 
@@ -39,9 +41,10 @@ comic/               正篇漫画分页
 
 1. ✅ 主要角色视觉锚点（悟空 / 红孩儿 / 哪吒 / 二郎神 / 观音）
 2. ✅ 取经组三师徒（八戒 / 沙僧 / 唐僧）
-3. ✅ 第一话「裂空」三页（`comic/ch01/`）
-4. 补全反派与配角：白骨精（赏金猎人）、牛魔王（火教宗主）
-5. 对白上字、封面与宣发图
+3. ✅ 第一话「裂空」前九页（`comic/ch01/`）：红孩儿劫道 → 三徒被投入多元宇宙 → 悟空败 → 观音收押红孩儿
+4. ✅ 火教宗主夫妇：牛魔王 / 铁扇公主
+5. 补全其他反派与配角：白骨精（赏金猎人）
+6. 对白上字、封面与宣发图、第十页起的后续章节
 
 ## License
 

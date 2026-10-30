@@ -25,9 +25,11 @@ A Japanese-manga-style space-opera comic retelling of *Journey to the West*. The
 
 ## Character slugs
 
-`wukong`, `red-boy`, `nezha`, `erlang`, `guanyin`, `bajie`, `wujing`, `sanzang`. New characters get a kebab-case slug and an entry in the design bible.
+`wukong`, `red-boy`, `nezha`, `erlang`, `guanyin`, `bajie`, `wujing`, `sanzang`, `bull-demon`, `iron-fan`. New characters get a kebab-case slug and an entry in the design bible.
 
 `lineup-bajie-wujing-sanzang.png` is a derived composite (Pigsy / Sandy / Sanzang, left to right) for panels that need all three and hit the 3-reference limit. Regenerate it from the individual sheets if any of them change.
+
+`lineup-bull-ironfan.png` is the same idea for 牛魔王 / 铁扇公主 (Bull Demon King left, Iron Fan right) — use it on pages that need both parents plus one more identity.
 
 ## Writing tone
 
