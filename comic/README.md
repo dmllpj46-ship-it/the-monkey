@@ -20,5 +20,11 @@ Follow `assets/characters/design-bible.md` for every character in frame. Page no
 | 010 | `ch01/p10.png` | 悟空拜别观音，得一句「随心而行，初心不忘」 | `ch01/p10.md` |
 | 011 | `ch01/p11.png` | 牛魔王交予五彩石，指向创世神女娲的星球 | `ch01/p11.md` |
 | 012 | `ch01/p12.png` | 悟空抵达五彩石星，织天殿空无一人 | `ch01/p12.md` |
+| 013 | `ch01/p13.png` | 七彩银河边，女娲在洗石头 | `ch01/p13.md` |
+| 014 | `ch01/p14.png` | 女娲先开口，问悟空从哪来 | `ch01/p14.md` |
+| 015 | `ch01/p15.png` | 悟空叩拜，说明师父兄弟被扔进宇宙深处 | `ch01/p15.md` |
+| 016 | `ch01/p16.png` | 「你是哪个猴子，在找哪个师傅？」 | `ch01/p16.md` |
+| 017 | `ch01/p17.png` | 五彩星是结界，进出易难相反，女娲消失 | `ch01/p17.md` |
+| 018 | `ch01/p18.png` | 飞船熄火、法力全无，悟空被困 | `ch01/p18.md` |
 
 Page images carry no lettering; dialogue and SFX live in the `pNN.md` scripts and get added at the lettering stage.
