@@ -26,5 +26,9 @@ Follow `assets/characters/design-bible.md` for every character in frame. Page no
 | 016 | `ch01/p16.png` | 「你是哪个猴子，在找哪个师傅？」 | `ch01/p16.md` |
 | 017 | `ch01/p17.png` | 五彩星是结界，进出易难相反，女娲消失 | `ch01/p17.md` |
 | 018 | `ch01/p18.png` | 飞船熄火、法力全无，悟空被困 | `ch01/p18.md` |
+| 019 | `ch01/p19.png` | 红孩儿困于莲花虚空，砸壁无门 | `ch01/p19.md` |
+| 020 | `ch01/p20.png` | 忆起悟空大战天庭，独战哪吒、二郎神 | `ch01/p20.md` |
+| 021 | `ch01/p21.png` | 忆起父亲临阵脱逃，立誓逃出、打败悟空 | `ch01/p21.md` |
+| 022 | `ch01/p22.png` | 火焰山下，牛魔王与铁扇公主的伤心与内疚 | `ch01/p22.md` |
 
 Page images carry no lettering; dialogue and SFX live in the `pNN.md` scripts and get added at the lettering stage.
