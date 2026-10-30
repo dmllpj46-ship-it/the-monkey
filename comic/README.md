@@ -50,5 +50,10 @@ Follow `assets/characters/design-bible.md` for every character in frame. Page no
 | 040 | `ch01/p40.png` | 红狐女与八戒潜入井底，定向爆破毁掉智能之母的能源 | `ch01/p40.md` |
 | 041 | `ch01/p41.png` | 兽人从地下涌出总攻，地面机械军团开始后退 | `ch01/p41.md` |
 | 042 | `ch01/p42.png` | 攻入核心机房，拔断干线缆，智能之母全灭 | `ch01/p42.md` |
+| 043 | `ch01/p43.png` | 黑熊主政、八戒受封先锋将军；红狐女答应帮他找人 | `ch01/p43.md` |
+| 044 | `ch01/p44.png` | 资料库：这颗星球是智人的科研站 | `ch01/p44.md` |
+| 045 | `ch01/p45.png` | 兽类觉醒智能；智人撤离，留下「统治兽人」的指令 | `ch01/p45.md` |
+| 046 | `ch01/p46.png` | 八戒主张重启智能之母、但切断它的网络 | `ch01/p46.md` |
+| 047 | `ch01/p47.png` | 黑熊准议，成立隔离的科研署，红狐女负责 | `ch01/p47.md` |
 
 Page images carry no lettering; dialogue and SFX live in the `pNN.md` scripts and get added at the lettering stage.

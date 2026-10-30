@@ -26,7 +26,9 @@ A Japanese-manga-style space-opera comic retelling of *Journey to the West*. The
 
 ## Character slugs
 
-`wukong`, `red-boy`, `nezha`, `erlang`, `guanyin`, `bajie`, `wujing`, `sanzang`, `bull-demon`, `iron-fan`, `nuwa`, `patrol-robot`, `red-fox`, `black-bear`, `mother-mind`. New characters get a kebab-case slug and an entry in the design bible.
+`wukong`, `red-boy`, `nezha`, `erlang`, `guanyin`, `bajie`, `wujing`, `sanzang`, `bull-demon`, `iron-fan`, `nuwa`, `patrol-robot`, `red-fox`, `black-bear`, `sapiens`, `mother-mind`. New characters get a kebab-case slug and an entry in the design bible.
+
+`sapiens.png` is the vanished builder race (唐僧's own species): human anatomy, hairless browless head, floating data-halo, bone-white suit. They only ever appear in archive footage and holograms (P44, P45) — never in present-time scenes, and never angry.
 
 `mother-mind.png` is not a character sheet: it is a 1536x1024 wide anchor for the planet-sized supercomputer (shape, lens pattern, scale cues). Treat its never-change list as binding whenever the sphere or its energy shaft is in frame.
 
