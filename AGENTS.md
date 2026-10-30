@@ -21,6 +21,7 @@ A Japanese-manga-style space-opera comic retelling of *Journey to the West*. The
 - New character sheets: 1024x1536, same reference-sheet layout as the existing five.
 - Comic pages: 1024x1536 portrait (or 1536x1024 for wide establishing shots), same ink/screentone style.
 - Save to `assets/characters/<slug>.png` for sheets, `comic/chNN/pNN.png` for pages (2-digit chapter, 2-digit page). `ch01` = chapter 1.
+- Cover art lives at `assets/cover.png`: art only, with a calm band left clear at the top so the HTML title can sit over it.
 - After generating, copy the final file into the repo; do not commit the raw `vibe_images/` output folder.
 
 ## Character slugs
@@ -35,6 +36,15 @@ A Japanese-manga-style space-opera comic retelling of *Journey to the West*. The
 
 - Story text: cinematic, terse, present tense. Chinese prose with English character names in the docs where useful.
 - No lore dumps in the README; the README is a pitch, the design bible is the spec.
+
+## Website
+
+- `site/` is a static reader with no build step: `index.html`, `styles.css`, `app.js`.
+- Live at <https://the-monkey-2z2.pages.dev/> (Cloudflare Pages project `the-monkey`, production branch `main`; the project name was taken so the subdomain has a `-2z2` suffix).
+- **Images are never copied into `site/`.** They are referenced as `raw.githubusercontent.com/dmllpj46-ship-it/the-monkey/main/...`, with a jsDelivr fallback in `app.js`. So pushing to `main` updates art immediately; only HTML/JS/CSS changes need a redeploy.
+- Adding a page: commit `comic/chNN/pNN.png` + `pNN.md`, add an entry to the `pages` array in `site/app.js`, then redeploy:
+  `wrangler pages deploy site --project-name the-monkey --branch main --commit-dirty=true --cwd <repo root>`
+- Keep the `cast` array in `site/app.js` in sync with the design bible, and the cover hero URL pointed at `assets/cover.png`.
 
 ## Commits
 

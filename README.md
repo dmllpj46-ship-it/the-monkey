@@ -2,6 +2,8 @@
 
 A Japanese-manga-style space opera retelling of *Journey to the West* — a comic about a pilgrimage across a war-torn galaxy.
 
+**[在线阅读 → the-monkey-2z2.pages.dev](https://the-monkey-2z2.pages.dev/)** · 站点图片直连本仓库，推送到 `main` 后重新部署即同步。
+
 ## Logline
 
 The scriptures are gone. In their place, a signal older than the stars pulses at the galactic core. A monkey-shaped outlaw, a fire-cult prince, an imperial ace and a three-eyed hunter-general are dragged onto the same ship, escorting a relic they do not understand — while the celestial armada, the fire fleets and the void itself close in.
@@ -34,7 +36,9 @@ Full design specs — colors, silhouettes, props, do-not-change list — live in
 
 ```
 assets/characters/   角色设定图（一致性基准）+ 设计圣经
-comic/               正篇漫画分页
+assets/cover.png     第一话封面
+comic/               正篇漫画分页与分镜脚本（pNN.png + pNN.md）
+site/                在线阅读站（Cloudflare Pages 部署源）
 ```
 
 ## Roadmap
@@ -43,8 +47,9 @@ comic/               正篇漫画分页
 2. ✅ 取经组三师徒（八戒 / 沙僧 / 唐僧）
 3. ✅ 第一话「裂空」前九页（`comic/ch01/`）：红孩儿劫道 → 三徒被投入多元宇宙 → 悟空败 → 观音收押红孩儿
 4. ✅ 火教宗主夫妇：牛魔王 / 铁扇公主
-5. 补全其他反派与配角：白骨精（赏金猎人）
-6. 对白上字、封面与宣发图、第十页起的后续章节
+5. ✅ 第一话封面 + Cloudflare Pages 在线阅读站
+6. 补全其他反派与配角：白骨精（赏金猎人）
+7. 对白上字、第二话起的新章节
 
 ## License
 

@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>THE MONKEY · 星际西游记</title>
+<meta name="description" content="日式漫画风格的太空歌剧版西游记。第一话「裂空」：红孩儿劫道，孙悟空败北，观世音收押火教少主。">
+<meta property="og:title" content="THE MONKEY · 星际西游记">
+<meta property="og:description" content="经书已失。银河的尽头，有一段比星星更古老的信号。">
+<meta property="og:image" content="https://raw.githubusercontent.com/dmllpj46-ship-it/the-monkey/main/assets/cover.png">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#08090d">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2308090d'/%3E%3Ccircle cx='16' cy='16' r='9' fill='none' stroke='%23d9a441' stroke-width='2.5'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="hero" id="top">
+  <img class="hero-art" src="https://raw.githubusercontent.com/dmllpj46-ship-it/the-monkey/main/assets/cover.png" alt="封面：废墟星海上，孙悟空持棒与红孩儿对峙，远处观音的千手光环若隐若现" fetchpriority="high">
+  <div class="hero-scrim"></div>
+  <div class="hero-copy">
+    <p class="kicker">第一话 · 裂空</p>
+    <h1>THE MONKEY</h1>
+    <p class="cn-title">星际西游记</p>
+    <p class="tagline">经书已失。银河的尽头，有一段比星星更古老的信号。</p>
+    <div class="hero-actions">
+      <a class="btn" href="#read">开始阅读</a>
+      <a class="btn btn-ghost" href="#cast">角色</a>
+    </div>
+  </div>
+  <p class="hero-foot">连载中 · 图片直连 GitHub 仓库 · 更新即同步</p>
+</header>
+
+<main>
+  <section class="section" id="about">
+    <div class="section-head">
+      <p class="label">Prologue</p>
+      <h2>故事</h2>
+    </div>
+    <div class="prose">
+      <p>经书消失之后，取经变成了一场横跨战火星系的逃亡。一艘船，四个人，一件他们看不懂的遗物——而天军、火教舰队与虚空本身，都在收网。</p>
+      <p>第一话发生在废弃的轨道禅院。火教第三舰队的少主红孩儿拦住取经船，把猪八戒、沙僧、唐僧接连投进撕裂的多元宇宙。孙悟空赶到，却败在三昧真火之下；直到观世音出现，把这位纵火的天才封进一颗永恒的莲花口袋宇宙。</p>
+      <p class="note">本页为分镜漫画：画面本身不嵌文字，对白与拟声随页附在下方，待上字阶段统一排版。</p>
+    </div>
+  </section>
+
+  <section class="section" id="cast">
+    <div class="section-head">
+      <p class="label">Dramatis Personae</p>
+      <h2>角色</h2>
+    </div>
+    <div id="cast-root"></div>
+  </section>
+
+  <section class="section section-read" id="read">
+    <div class="section-head">
+      <p class="label">Chapter 01</p>
+      <h2><span class="chapter-no">01</span> 裂空</h2>
+    </div>
+    <p class="chapter-intro">废弃轨道禅院 · 西元 3087。九页，一镜到底。</p>
+    <div id="pages-root"></div>
+    <p class="chapter-end">第一话 · 完 —— 第二话筹备中</p>
+  </section>
+</main>
+
+<footer class="footer">
+  <p><strong>THE MONKEY · 星际西游记</strong> — 一个日式漫画风格的太空歌剧版西游记。</p>
+  <p>画面与脚本托管在 <a href="https://github.com/dmllpj46-ship-it/the-monkey" target="_blank" rel="noopener">GitHub 仓库</a>，本站图片通过仓库链接直接加载；仓库更新后，重新部署即可同步。</p>
+  <p class="fine">Artwork and text © the contributors. All rights reserved.</p>
+</footer>
+
+<div class="lightbox" id="lightbox" hidden>
+  <button class="lb-close" id="lb-close" aria-label="关闭">✕</button>
+  <button class="lb-nav lb-prev" id="lb-prev" aria-label="上一页">‹</button>
+  <img id="lb-img" alt="">
+  <button class="lb-nav lb-next" id="lb-next" aria-label="下一页">›</button>
+  <p class="lb-cap" id="lb-cap"></p>
+</div>
+
+<noscript><p class="noscript">页面内容由 JavaScript 渲染，请启用脚本后阅读。</p></noscript>
+<script src="app.js"></script>
+</body>
+</html>
