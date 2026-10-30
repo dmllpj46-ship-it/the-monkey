@@ -17,5 +17,8 @@ Follow `assets/characters/design-bible.md` for every character in frame. Page no
 | 007 | `ch01/p07.png` | 红孩儿火枪如雨，被一掌按入地面、火尖枪折断 | `ch01/p07.md` |
 | 008 | `ch01/p08.png` | 白光汇聚欲湮灭红孩儿，牛魔王与铁扇公主赶到求情 | `ch01/p08.md` |
 | 009 | `ch01/p09.png` | 红孩儿被囚入莲花口袋宇宙，父母叩谢，观音离去 | `ch01/p09.md` |
+| 010 | `ch01/p10.png` | 悟空拜别观音，得一句「随心而行，初心不忘」 | `ch01/p10.md` |
+| 011 | `ch01/p11.png` | 牛魔王交予五彩石，指向创世神女娲的星球 | `ch01/p11.md` |
+| 012 | `ch01/p12.png` | 悟空抵达五彩石星，织天殿空无一人 | `ch01/p12.md` |
 
 Page images carry no lettering; dialogue and SFX live in the `pNN.md` scripts and get added at the lettering stage.

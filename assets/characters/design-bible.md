@@ -59,6 +59,16 @@ Reference-sheet layout (for new characters only): vertical sheet, full-body thre
 - **Palette**: white, jade green, gold, soft blue, violet nebula accents.
 - **Never change**: thousand-hand halo, lotus throne, jade vase, willow branch, closed serene eyes.
 
+### 女娲 — `nuwa.png`
+
+- **Age / build**: ageless, tall, statuesque; human upper body, long serpentine tail below the waist, coiled in a calm S-curve.
+- **Hair / face**: black hair in a high coiled crown held by five slowly orbiting stone shards — azure, cinnabar, ochre gold, ivory, ink black; serene ancient eyes with faint star-chart irises; small cinnabar mark between the brows.
+- **Costume**: ivory and jade layered robes with wide sleeves; sky-mending cloak whose hem is patched with starfields and nebula seams; gold arm rings, jade belt; glowing five-color stone set at the chest.
+- **Props**: long needle trailing a single thread of starlight; floating cosmic loom shuttle with five-colored threads.
+- **Palette**: azure, cinnabar, ochre gold, ivory, ink black, jade green.
+- **Never change**: five orbiting stone shards, serpent tail, chest stone, star-patched cloak, needle and starlight thread.
+- Note: this sheet carries four small detail insets (chest stone, thread box, needle, cloak) that the others lack. When using it as a reference for a page, say "ignore the inset detail panels; keep only the full-body and portrait".
+
 ### 猪八戒 — `bajie.png`
 
 - **Age / build**: middle-aged, short and broad, heavy gut, low center of gravity.

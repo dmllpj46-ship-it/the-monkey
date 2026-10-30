@@ -22,8 +22,9 @@ The scriptures are gone. In their place, a signal older than the stars pulses at
 | 唐僧 | `sanzang` | 取经船领航者 · 导航僧 | 清瘦青年、金色导航额环、白与姜黄僧袍、星图腰带、发光经卷、九环杖 |
 | 牛魔王 | `bull-demon` | 火教宗主 · 红孩儿之父 | 炭黑牛首、巨角缠铜、鼻铜环、赤红鬃毛、黑与牛血红漆甲、熔炉胸核、双刃巨斧 |
 | 铁扇公主 | `iron-fan` | 火教宗主夫人 · 风系术者 | 高髻金钗、扇冠双角、牛血红唇、赤红高领长袍配黑漆甲、扇面肩甲、翠绿芭蕉扇 |
+| 女娲 | `nuwa` | 创世神 · 补天者 | 五色石环绕的高髻、蛇形长尾、星图披风、胸前五色石、星光线与天梭 |
 
-Full design specs — colors, silhouettes, props, do-not-change list — live in [`assets/characters/design-bible.md`](assets/characters/design-bible.md). **Those ten sheets are the single source of truth for character consistency.**
+Full design specs — colors, silhouettes, props, do-not-change list — live in [`assets/characters/design-bible.md`](assets/characters/design-bible.md). **Those eleven sheets are the single source of truth for character consistency.**
 
 ## Visual style
 
@@ -45,11 +46,12 @@ site/                在线阅读站（Cloudflare Pages 部署源）
 
 1. ✅ 主要角色视觉锚点（悟空 / 红孩儿 / 哪吒 / 二郎神 / 观音）
 2. ✅ 取经组三师徒（八戒 / 沙僧 / 唐僧）
-3. ✅ 第一话「裂空」前九页（`comic/ch01/`）：红孩儿劫道 → 三徒被投入多元宇宙 → 悟空败 → 观音收押红孩儿
+3. ✅ 第一话「裂空」001–009：红孩儿劫道 → 三徒被投入多元宇宙 → 悟空败 → 观音收押红孩儿
 4. ✅ 火教宗主夫妇：牛魔王 / 铁扇公主
 5. ✅ 第一话封面 + Cloudflare Pages 在线阅读站
-6. 补全其他反派与配角：白骨精（赏金猎人）
-7. 对白上字、第二话起的新章节
+6. ✅ 女娲定妆；第一话 010–012：拜别观音 → 五彩石 → 空殿
+7. 第二话「织天殿」：女娲的下落与织天巨机
+8. 补全其他反派与配角：白骨精（赏金猎人）；对白上字
 
 ## License
 
