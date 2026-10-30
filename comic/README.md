@@ -30,5 +30,9 @@ Follow `assets/characters/design-bible.md` for every character in frame. Page no
 | 020 | `ch01/p20.png` | 忆起悟空大战天庭，独战哪吒、二郎神 | `ch01/p20.md` |
 | 021 | `ch01/p21.png` | 忆起父亲临阵脱逃，立誓逃出、打败悟空 | `ch01/p21.md` |
 | 022 | `ch01/p22.png` | 火焰山下，牛魔王与铁扇公主的伤心与内疚 | `ch01/p22.md` |
+| 023 | `ch01/p23.png` | 八戒在泥沼星醒来，被巡逻机器人抓走 | `ch01/p23.md` |
+| 024 | `ch01/p24.png` | 兽星牢房：兽人被智能机器统治 | `ch01/p24.md` |
+| 025 | `ch01/p25.png` | 地下世界做劳力，无法之地的市集与配给 | `ch01/p25.md` |
+| 026 | `ch01/p26.png` | 八戒独来独往，藏起师父兄弟的全息，等待机会 | `ch01/p26.md` |
 
 Page images carry no lettering; dialogue and SFX live in the `pNN.md` scripts and get added at the lettering stage.

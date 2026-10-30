@@ -114,6 +114,18 @@ Reference-sheet layout (for new characters only): vertical sheet, full-body thre
 - **Palette**: crimson, black, gold, jade green.
 - **Never change**: fan-shaped tiara, shoulder mantle, wind-core, banana-leaf fan, regal posture.
 
+### 巡逻机器人 — `patrol-robot.png`
+
+- **Role**: 兽星的机械执法者。量产、无编号、不说话，只报数。
+- **Build**: 约 2.4 m，重装双足，前倾的监工姿态，宽脚掌常糊着泥。
+- **Head**: 楔形长头，没有五官，只有一道横向冷青视镜；下方是扬声器格栅和一簇短天线。
+- **Costume / armor**: 枪灰装甲板，斜向危险黄警示带，铆钉、锈迹、泥点；胸口圆形舱门核心。
+- **Arms / weapons**: 一只三指重型夹钳；一只可伸缩电击长杆，带细青电弧；背部四根折叠副臂。
+- **Gear**: 肩载探照灯、短管捕捉网发射器；腿部活塞外露。
+- **Palette**: 枪灰、警示黄、冷青、锈橙、油黑。
+- **Never change**: 单缝视镜、警示黄斜带、三指夹钳、电击长杆、背部副臂。
+- Note: 本稿额外带六块局部细节图（头部转面、夹钳、长杆、背视、脚部、场景）。作页面参考时说明「忽略内嵌细节图，只用左侧全身与右上头肩像」。
+
 ### Multi-character reference
 
 `lineup-bajie-wujing-sanzang.png` is a composite of the three pilgrimage sheets, left to right: 猪八戒 / 沙僧 / 唐僧. Use it when a panel needs all three and the 3-reference limit applies.
