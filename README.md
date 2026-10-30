@@ -15,6 +15,9 @@ The scriptures are gone. In their place, a signal older than the stars pulses at
 | 哪吒 | `nezha` | 天军王牌 · 莲花装甲驾驶员 | 中性少年、双丸子头配玉莲饰、白红莲花甲、混天绫能量带、脚踝风火轮涡轮、火尖枪 |
 | 二郎神 | `erlang` | 天军猎杀舰队统帅 · 追兵 | 银白长发、额间青色天眼（瞄准 HUD）、银白重甲配深蓝披风、三尖两刃刀、机械哮天犬 |
 | 观世音 | `guanyin` | 星海守护者 · 引路人 | 白衣叠星云薄纱、千手全息背光、机械莲座、净瓶星水与柳枝 |
+| 猪八戒 | `bajie` | 取经船重装工程师 · 前舰队炮手 | 灰蓝猪首、铜套獠牙、藏青压力袍、锈橙肩甲、圆腹甲、九齿重力耙 |
+| 沙僧 | `wujing` | 取经船军需官兼战地医师 | 蓝灰巨汉、光头铜须、深青长袍、生命维持颈环、九枚金属牌、月牙铲 |
+| 唐僧 | `sanzang` | 取经船领航者 · 导航僧 | 清瘦青年、金色导航额环、白与姜黄僧袍、星图腰带、发光经卷、九环杖 |
 
 Full design specs — colors, silhouettes, props, do-not-change list — live in [`assets/characters/design-bible.md`](assets/characters/design-bible.md). **Those five sheets are the single source of truth for character consistency.**
 
@@ -35,9 +38,10 @@ comic/               正篇漫画分页
 ## Roadmap
 
 1. ✅ 主要角色视觉锚点（悟空 / 红孩儿 / 哪吒 / 二郎神 / 观音）
-2. 补全配角：唐僧（领航员）、猪八戒（重装工程师）、沙僧（船医）、白骨精（赏金猎人）、牛魔王（火教宗主）
-3. 第一章分镜与成页
-4. 封面与宣发图
+2. ✅ 取经组三师徒（八戒 / 沙僧 / 唐僧）
+3. ✅ 第一话「裂空」三页（`comic/ch01/`）
+4. 补全反派与配角：白骨精（赏金猎人）、牛魔王（火教宗主）
+5. 对白上字、封面与宣发图
 
 ## License
 

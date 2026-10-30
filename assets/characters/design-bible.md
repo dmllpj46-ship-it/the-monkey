@@ -59,6 +59,37 @@ Reference-sheet layout (for new characters only): vertical sheet, full-body thre
 - **Palette**: white, jade green, gold, soft blue, violet nebula accents.
 - **Never change**: thousand-hand halo, lotus throne, jade vase, willow branch, closed serene eyes.
 
+### 猪八戒 — `bajie.png`
+
+- **Age / build**: middle-aged, short and broad, heavy gut, low center of gravity.
+- **Hair / face**: grey-blue boar head, droopy ears, two brass-capped tusks, small shrewd eyes, stubble, lopsided grin.
+- **Costume**: patched navy pressure suit cut like a work robe, rust-orange shoulder pauldron, round armored belly plate, tool harness (wrenches, canisters), thick gloves, magnetic boots, flask at the hip.
+- **Weapon**: nine-tooth rake reworked into a gravity harvester — nine steel tines, faint orange anti-grav glow beneath them.
+- **Palette**: navy, steel blue, rust orange, black.
+- **Never change**: boar head with droopy ears, brass-capped tusks, round belly plate, rake, flask.
+
+### 沙僧 — `wujing.png`
+
+- **Age / build**: adult, towering and broad, quiet bulk.
+- **Hair / face**: slate blue-grey skin, bald head, thick copper beard and sideburns, stern calm eyes, necklace of nine small metal tags.
+- **Costume**: deep teal utility robes over segmented armor, life-support collar, cargo harness with medical vials, heavy gauntlets and boots.
+- **Weapon**: monk's spade — crescent blade on one end, flat spade on the other, dark bronze with a cyan energy edge.
+- **Palette**: deep teal, slate blue, copper, cyan.
+- **Never change**: bald head with copper beard, life-support collar, nine-tag necklace, monk's spade.
+
+### 唐僧 — `sanzang.png`
+
+- **Age / build**: young adult, slim, upright, never a fighter.
+- **Hair / face**: fair skin, shaved head, gentle serene face, calm eyes, faint gold navigation circlet at the brow.
+- **Costume**: layered white and saffron robes over a slim dark flight harness, star-chart sash, prayer beads of tiny holographic stars, sandals.
+- **Props**: luminous sutra data-scroll; nine-ring monk's staff with a cyan-glowing finial.
+- **Palette**: white, saffron, gold, soft cyan.
+- **Never change**: gold brow circlet, star-chart sash, star-bead prayer beads, scroll, nine-ring staff.
+
+### Multi-character reference
+
+`lineup-bajie-wujing-sanzang.png` is a composite of the three pilgrimage sheets, left to right: 猪八戒 / 沙僧 / 唐僧. Use it when a panel needs all three and the 3-reference limit applies.
+
 ## Using the anchors
 
 1. **Same character, new page**: pass the matching sheet to ImageGen as a reference image and state "the first image is the identity and costume reference; keep face, hair, silhouette, costume and palette unchanged". Restate the locked art direction.
