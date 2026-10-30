@@ -5,31 +5,31 @@ const cast = [
   {
     group: "取经船",
     members: [
-      { name: "孙悟空", en: "Sun Wukong", role: "星盗 · 齐天大圣号船长", anchor: "金棕猴毛、冲天乱发、金色科技紧箍、黑红战袍、带三道铜环的尾巴、等离子金箍棒" },
-      { name: "猪八戒", en: "Zhu Bajie", role: "重装工程师 · 前舰队炮手", anchor: "灰蓝猪首、垂耳、铜套獠牙、藏青压力袍、锈橙肩甲、圆腹甲、九齿重力耙" },
-      { name: "沙僧", en: "Sha Wujing", role: "军需官兼战地医师", anchor: "蓝灰巨汉、光头铜须、深青长袍、生命维持颈环、九枚金属牌、月牙铲" },
-      { name: "唐僧", en: "Tang Sanzang", role: "领航者 · 导航僧", anchor: "清瘦青年、金色导航额环、白与姜黄僧袍、星图腰带、发光经卷、九环杖" },
+      { slug: "wukong", name: "孙悟空", en: "Sun Wukong", role: "星盗 · 齐天大圣号船长", anchor: "金棕猴毛、冲天乱发、金色科技紧箍、黑红战袍、带三道铜环的尾巴、等离子金箍棒" },
+      { slug: "bajie", name: "猪八戒", en: "Zhu Bajie", role: "重装工程师 · 前舰队炮手", anchor: "灰蓝猪首、垂耳、铜套獠牙、藏青压力袍、锈橙肩甲、圆腹甲、九齿重力耙" },
+      { slug: "wujing", name: "沙僧", en: "Sha Wujing", role: "军需官兼战地医师", anchor: "蓝灰巨汉、光头铜须、深青长袍、生命维持颈环、九枚金属牌、月牙铲" },
+      { slug: "sanzang", name: "唐僧", en: "Tang Sanzang", role: "领航者 · 导航僧", anchor: "清瘦青年、金色导航额环、白与姜黄僧袍、星图腰带、发光经卷、九环杖" },
     ],
   },
   {
     group: "火教",
     members: [
-      { name: "红孩儿", en: "Red Boy", role: "第三舰队少主 · 纵火天才", anchor: "赤红短发、火焰瞳、双颊火纹、黑色无袖火焰夹克、喷口热能背架、火焰长枪" },
-      { name: "牛魔王", en: "Bull Demon King", role: "火教宗主 · 红孩儿之父", anchor: "炭黑牛首、巨角缠铜、鼻铜环、赤红鬃毛、黑与牛血红漆甲、熔炉胸核、双刃巨斧" },
-      { name: "铁扇公主", en: "Iron Fan Princess", role: "宗主夫人 · 风系术者", anchor: "高髻金钗、扇冠双角、牛血红唇、黑漆甲赤红长袍、扇面肩甲、翠绿芭蕉扇" },
+      { slug: "red-boy", name: "红孩儿", en: "Red Boy", role: "第三舰队少主 · 纵火天才", anchor: "赤红短发、火焰瞳、双颊火纹、黑色无袖火焰夹克、喷口热能背架、火焰长枪" },
+      { slug: "bull-demon", name: "牛魔王", en: "Bull Demon King", role: "火教宗主 · 红孩儿之父", anchor: "炭黑牛首、巨角缠铜、鼻铜环、赤红鬃毛、黑与牛血红漆甲、熔炉胸核、双刃巨斧" },
+      { slug: "iron-fan", name: "铁扇公主", en: "Iron Fan Princess", role: "宗主夫人 · 风系术者", anchor: "高髻金钗、扇冠双角、牛血红唇、黑漆甲赤红长袍、扇面肩甲、翠绿芭蕉扇" },
     ],
   },
   {
     group: "天庭",
     members: [
-      { name: "哪吒", en: "Nezha", role: "天军王牌 · 莲花装甲驾驶员", anchor: "中性少年、双丸子头配玉莲饰、白红莲花甲、混天绫能量带、脚踝风火轮涡轮" },
-      { name: "二郎神", en: "Erlang Shen", role: "猎杀舰队统帅 · 追兵", anchor: "银白长发、额间青色天眼、银白重甲配深蓝披风、三尖两刃刀、机械哮天犬" },
+      { slug: "nezha", name: "哪吒", en: "Nezha", role: "天军王牌 · 莲花装甲驾驶员", anchor: "中性少年、双丸子头配玉莲饰、白红莲花甲、混天绫能量带、脚踝风火轮涡轮" },
+      { slug: "erlang", name: "二郎神", en: "Erlang Shen", role: "猎杀舰队统帅 · 追兵", anchor: "银白长发、额间青色天眼、银白重甲配深蓝披风、三尖两刃刀、机械哮天犬" },
     ],
   },
   {
     group: "星海",
     members: [
-      { name: "观世音", en: "Guanyin", role: "星海守护者 · 引路人", anchor: "白衣叠星云薄纱、千手全息背光、机械莲座、净瓶星水与柳枝" },
+      { slug: "guanyin", name: "观世音", en: "Guanyin", role: "星海守护者 · 引路人", anchor: "白衣叠星云薄纱、千手全息背光、机械莲座、净瓶星水与柳枝" },
     ],
   },
 ];
@@ -155,22 +155,58 @@ function renderCast() {
     group.members.forEach((m, i) => {
       const card = document.createElement("article");
       card.className = "cast-card";
-      card.innerHTML = `
+
+      const photoWrap = document.createElement("figure");
+      photoWrap.className = "cast-photo";
+      const photo = document.createElement("img");
+      const thumbPath = `assets/characters/thumbs/${m.slug}.jpg`;
+      withFallback(photo, thumbPath);
+      photo.src = repoUrl(thumbPath);
+      photo.alt = `${m.name} 角色设定头像`;
+      photo.loading = "lazy";
+      photo.decoding = "async";
+      photoWrap.appendChild(photo);
+      const shot = document.createElement("span");
+      shot.className = "cast-zoom";
+      shot.textContent = "看全图";
+      photoWrap.appendChild(shot);
+      photoWrap.addEventListener("click", () => openGallery(castGallery(), castIndex(m.slug)));
+      card.appendChild(photoWrap);
+
+      const body = document.createElement("div");
+      body.className = "cast-body";
+      body.innerHTML = `
         <p class="idx">${String(i + 1).padStart(2, "0")}</p>
         <h4 class="name"></h4>
         <p class="en"></p>
         <p class="role"></p>
         <p class="anchor"></p>`;
-      card.querySelector(".name").textContent = m.name;
-      card.querySelector(".en").textContent = m.en;
-      card.querySelector(".role").textContent = m.role;
-      card.querySelector(".anchor").textContent = m.anchor;
+      body.querySelector(".name").textContent = m.name;
+      body.querySelector(".en").textContent = m.en;
+      body.querySelector(".role").textContent = m.role;
+      body.querySelector(".anchor").textContent = m.anchor;
+      card.appendChild(body);
+
       grid.appendChild(card);
     });
 
     section.appendChild(grid);
     root.appendChild(section);
   });
+}
+
+function castGallery() {
+  return cast.flatMap((group) =>
+    group.members.map((m) => ({
+      path: `assets/characters/${m.slug}.png`,
+      alt: `${m.name} 角色设定稿`,
+      cap: `${m.name} · ${m.en}`,
+    }))
+  );
+}
+
+function castIndex(slug) {
+  return castGallery().findIndex((item) => item.path.includes(`/${slug}.png`));
 }
 
 function renderPages() {
@@ -234,9 +270,23 @@ function renderPages() {
 const lb = document.getElementById("lightbox");
 const lbImg = document.getElementById("lb-img");
 const lbCap = document.getElementById("lb-cap");
+let gallery = [];
 let current = 0;
 
+function pageGallery() {
+  return pages.map((page) => ({
+    path: `comic/ch01/${page.slug}.png`,
+    alt: `第一话 ${page.title}，第 ${page.n} 页`,
+    cap: `P${page.n} · ${page.title}`,
+  }));
+}
+
 function openLightbox(index) {
+  openGallery(pageGallery(), index);
+}
+
+function openGallery(items, index) {
+  gallery = items;
   current = index;
   updateLightbox();
   lb.hidden = false;
@@ -249,18 +299,17 @@ function closeLightbox() {
 }
 
 function step(delta) {
-  current = (current + delta + pages.length) % pages.length;
+  current = (current + delta + gallery.length) % gallery.length;
   updateLightbox();
 }
 
 function updateLightbox() {
-  const page = pages[current];
-  const path = `comic/ch01/${page.slug}.png`;
+  const item = gallery[current];
   lbImg.dataset.fallback = "";
-  withFallback(lbImg, path);
-  lbImg.src = repoUrl(path);
-  lbImg.alt = `第一话 ${page.title}，第 ${page.n} 页`;
-  lbCap.textContent = `P${page.n} · ${page.title}`;
+  withFallback(lbImg, item.path);
+  lbImg.src = repoUrl(item.path);
+  lbImg.alt = item.alt;
+  lbCap.textContent = item.cap;
 }
 
 document.getElementById("lb-close").addEventListener("click", closeLightbox);

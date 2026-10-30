@@ -201,14 +201,60 @@ main { position: relative; z-index: 1; }
 
 .cast-card {
   background: var(--ink-2);
-  padding: 20px 20px 22px;
+  display: flex;
+  flex-direction: column;
 }
+
+.cast-photo {
+  position: relative;
+  margin: 0;
+  aspect-ratio: 4 / 5;
+  overflow: hidden;
+  background: #14171f;
+  cursor: zoom-in;
+}
+
+.cast-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform .6s cubic-bezier(.2,.7,.3,1);
+}
+
+.cast-card:hover .cast-photo img { transform: scale(1.035); }
+
+.cast-photo::after {
+  content: "";
+  position: absolute;
+  inset: 55% 0 0;
+  background: linear-gradient(to top, rgba(8,9,13,.55), transparent);
+  pointer-events: none;
+}
+
+.cast-zoom {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  z-index: 1;
+  font-size: 11px;
+  letter-spacing: .14em;
+  padding: 3px 9px;
+  background: rgba(8,9,13,.7);
+  color: var(--paper);
+  opacity: 0;
+  transition: opacity .2s ease;
+}
+
+.cast-photo:hover .cast-zoom { opacity: 1; }
+
+.cast-body { padding: 16px 18px 20px; }
 
 .cast-card .idx {
   font-family: var(--serif);
   font-size: 12px;
   letter-spacing: .2em;
   color: var(--gold-dim);
+  margin: 0;
 }
 
 .cast-card .name {
