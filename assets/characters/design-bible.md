@@ -112,6 +112,8 @@ Reference-sheet layout (for new characters only): vertical sheet, full-body thre
 
 ## Using the anchors
 
+`thumbs/<slug>.jpg` are 4:5 web crops of the right-hand portrait on each sheet, used by the reading site. They are derived, never canon — regenerate them if a sheet changes.
+
 1. **Same character, new page**: pass the matching sheet to ImageGen as a reference image and state "the first image is the identity and costume reference; keep face, hair, silhouette, costume and palette unchanged". Restate the locked art direction.
 2. **Multi-character panel**: one reference per character, labeled by order. Keep each character's never-change list in the prompt.
 3. **New characters**: generate a sheet in the same layout, add them here, then they become canon.
