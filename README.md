@@ -26,8 +26,9 @@ The scriptures are gone. In their place, a signal older than the stars pulses at
 | 巡逻机器人 | `patrol-robot` | 兽星机械执法者 · 量产型 | 楔形长头、横向冷青视镜、枪灰装甲配危险黄斜带、三指夹钳、电击长杆、背部折叠副臂 |
 | 红狐女 | `red-fox` | 兽星地下黑帮头目 · 半机械化 | 赤红狐首、单只瞄准义眼、颌侧金属板、左臂义肢、一真两机械三尾、暗红毛领、等离子撬棍 |
 | 黑熊 | `black-bear` | 兽星地下组织头目 · 实为抵抗军统帅 | 炭黑熊首、灰白口鼻、左眼竖疤、胸口骨白月牙、肩挂机器人头颅绶带、土褐油布大衣、黑缨长枪 |
+| 智能之母 | `mother-mind` | 兽星统治者 · 巨型球形运算中枢 | 山岳级枪灰球体、危险黄斜带、成千上万单缝冷青视镜、中央巨大横向主视镜、底部脐带管线插入发光能源井 |
 
-Full design specs — colors, silhouettes, props, do-not-change list — live in [`assets/characters/design-bible.md`](assets/characters/design-bible.md). **Those fourteen sheets are the single source of truth for character consistency.**
+Full design specs — colors, silhouettes, props, do-not-change list — live in [`assets/characters/design-bible.md`](assets/characters/design-bible.md). **Those fifteen anchors are the single source of truth for character consistency.**
 
 ## Visual style
 
@@ -58,8 +59,9 @@ site/                在线阅读站（Cloudflare Pages 部署源）
 9. ✅ 巡逻机器人定妆；第一话 023–026：泥沼被捕 → 兽星牢房 → 地下劳力 → 八戒独行待机
 10. ✅ 红狐女定妆；第一话 027–031：看中力气 → 盲抢被拒 → 遭劫持 → 交易 → 「不杀人」与「没有真人」
 11. ✅ 黑熊定妆；第一话 032–037：隧道劫车 → 八戒一耙定局 → 头功 → 引见黑熊 → 「不是帮派」→ 为找师父入伙
-12. 第二话「同囚」：三条线（悟空 / 红孩儿 / 八戒）各自的越狱起头
-13. 补全其他反派与配角：白骨精（赏金猎人）；对白上字
+12. ✅ 智能之母定妆（球形运算中枢）；第一话 038–042：智人传说 → 货物是高爆炸药 → 定向爆破能源井 → 地面总攻 → 拔掉干线缆、关掉智能之母
+13. 第二话「同囚」：三条线（悟空 / 红孩儿 / 八戒）各自的越狱起头
+14. 补全其他反派与配角：白骨精（赏金猎人）；对白上字
 
 ## License
 

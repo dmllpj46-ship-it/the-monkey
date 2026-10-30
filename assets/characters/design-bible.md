@@ -152,6 +152,18 @@ Reference-sheet layout (for new characters only): vertical sheet, full-body thre
 - **Never change**: 胸口骨白月牙、灰白口鼻、左眼竖疤、缺口右耳、机器人头颅绶带、黑缨长枪。
 - Note: 本稿右下角额外带三块机器人头颅细节图。作页面参考时说明「忽略内嵌细节图，只用左侧全身与右上头肩像」。
 
+### 智能之母 — `mother-mind.png`（非人形锚点）
+
+- **Role**: 兽星的统治者。不是机器人，是一整颗星球的运算核心；巡逻机器人与机械军团都是它的手脚。
+- **Form**: 山岳级球体，坐落在地底空穴里，由暗钢支塔与电弧夹钳托住；赤道一圈完整检修栈桥与吊臂。
+- **Hull**: 枪灰铆接装甲板拼成球壳，散热百叶、管束、线缆桥架密布；若干板块画危险黄斜带；接缝渗锈，下半球挂着油烟与泥痕。
+- **Eyes**: 球面密集成千上万枚单缝冷青视镜——与巡逻机器人同一套视觉语言，像复眼一样排布；正中央一道巨大的横向主视镜，狭长、无嘴、无人脸。
+- **Feeding**: 球体底部一束粗如隧道的脐带主干线垂落，插进下方发橙光的能源井；井口有热浪与瀑布状冷却水。
+- **Scale cues**: 吊装平台、索桥吊篮、栈桥上蚂蚁般的机器单位——用来衬托球体之大。
+- **Palette**: 枪灰、油黑、危险黄、冷青、锈橙、炉光橙。
+- **Never change**: 球形 + 密集单缝冷青视镜 + 中央一道横向主视镜 + 危险黄斜带 + 底部脐带管线接入发光能源井。
+- Note: 本稿是 1536x1024 横版场景锚点，不是角色定妆版式；作页面参考时说明「这是智能之母的外形与尺度基准」。它被破坏时按顺序失能：先能源井（P40，视镜成片转暗）→ 后主视镜与干线缆（P42，全灭，只剩应急红灯）。
+
 ### Multi-character reference
 
 `lineup-bajie-wujing-sanzang.png` is a composite of the three pilgrimage sheets, left to right: 猪八戒 / 沙僧 / 唐僧. Use it when a panel needs all three and the 3-reference limit applies.

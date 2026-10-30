@@ -26,7 +26,9 @@ A Japanese-manga-style space-opera comic retelling of *Journey to the West*. The
 
 ## Character slugs
 
-`wukong`, `red-boy`, `nezha`, `erlang`, `guanyin`, `bajie`, `wujing`, `sanzang`, `bull-demon`, `iron-fan`, `nuwa`, `patrol-robot`, `red-fox`, `black-bear`. New characters get a kebab-case slug and an entry in the design bible.
+`wukong`, `red-boy`, `nezha`, `erlang`, `guanyin`, `bajie`, `wujing`, `sanzang`, `bull-demon`, `iron-fan`, `nuwa`, `patrol-robot`, `red-fox`, `black-bear`, `mother-mind`. New characters get a kebab-case slug and an entry in the design bible.
+
+`mother-mind.png` is not a character sheet: it is a 1536x1024 wide anchor for the planet-sized supercomputer (shape, lens pattern, scale cues). Treat its never-change list as binding whenever the sphere or its energy shaft is in frame.
 
 `lineup-bajie-wujing-sanzang.png` is a derived composite (Pigsy / Sandy / Sanzang, left to right) for panels that need all three and hit the 3-reference limit. Regenerate it from the individual sheets if any of them change.
 

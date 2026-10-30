@@ -45,5 +45,10 @@ Follow `assets/characters/design-bible.md` for every character in frame. Page no
 | 035 | `ch01/p35.png` | 红狐女引八戒穿过暗门，去见组织头目黑熊 | `ch01/p35.md` |
 | 036 | `ch01/p36.png` | 黑熊揭底：不是帮派，是这个星球的抵抗军 | `ch01/p36.md` |
 | 037 | `ch01/p37.png` | 八戒拒入伙；黑熊以「帮你找师父」成交 | `ch01/p37.md` |
+| 038 | `ch01/p38.png` | 八戒问兽星来历；红狐女只记得「智人管过机器」的传说 | `ch01/p38.md` |
+| 039 | `ch01/p39.png` | 货柜里是高爆炸药，黑熊号召炸能源井、发起总攻 | `ch01/p39.md` |
+| 040 | `ch01/p40.png` | 红狐女与八戒潜入井底，定向爆破毁掉智能之母的能源 | `ch01/p40.md` |
+| 041 | `ch01/p41.png` | 兽人从地下涌出总攻，地面机械军团开始后退 | `ch01/p41.md` |
+| 042 | `ch01/p42.png` | 攻入核心机房，拔断干线缆，智能之母全灭 | `ch01/p42.md` |
 
 Page images carry no lettering; dialogue and SFX live in the `pNN.md` scripts and get added at the lettering stage.
