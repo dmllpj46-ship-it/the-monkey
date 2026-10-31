@@ -60,5 +60,10 @@ Follow `assets/characters/design-bible.md` for every character in frame. Page no
 | 050 | `ch01/p50.png` | 徒步数日毫无头绪，记号比路还多；树根丘上出现几何形洞口 | `ch01/p50.md` |
 | 051 | `ch01/p51.png` | 唐僧听见洞里低吟，入内搜查——空无一物，只有满地美石 | `ch01/p51.md` |
 | 052 | `ch01/p52.png` | 石头离地自由组合、仿出形状；沙僧发现自己能指挥它们 | `ch01/p52.md` |
+| 053 | `ch01/p53.png` | 虚空中响起一个用他自己的嗓子说话的声音，教了他一句咒 | `ch01/p53.md` |
+| 054 | `ch01/p54.png` | 他念出咒语，从内部掰开莲花，掉回火焰山上空 | `ch01/p54.md` |
+| 055 | `ch01/p55.png` | 炉门堡垒前，红孩儿逼问牛魔王孙悟空的下落 | `ch01/p55.md` |
+| 056 | `ch01/p56.png` | 父子动手；红孩儿一枪捅穿炉管肩甲，牛魔王落败 | `ch01/p56.md` |
+| 057 | `ch01/p57.png` | 铁扇公主挡在父子之间，指向五彩石星：他往那儿去了 | `ch01/p57.md` |
 
 Page images carry no lettering; dialogue and SFX live in the `pNN.md` scripts and get added at the lettering stage.
