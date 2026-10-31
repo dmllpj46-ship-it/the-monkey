@@ -68,5 +68,8 @@ Follow `assets/characters/design-bible.md` for every character in frame. Page no
 | 058 | `ch01/p58.png` | 溺亡殖民星：哪吒一枪捅爆水龙怪，无聊地甩枪 | `ch01/p58.md` |
 | 059 | `ch01/p59.png` | 云层裂开，观音法相报信：莲花里的火灭了 | `ch01/p59.md` |
 | 060 | `ch01/p60.png` | 哪吒冷笑领命：「带回来。活的。」→ 一道火线穿云而去 | `ch01/p60.md` |
+| 061 | `ch01/p61.png` | 科研署造出星空探测仪，智能之母锁定五彩星 | `ch01/p61.md` |
+| 062 | `ch01/p62.png` | 智能之母警告：五彩星有五色结界，普通飞行器接触第十一秒解体 | `ch01/p62.md` |
+| 063 | `ch01/p63.png` | 红狐女定下量子穿越方案，但要几个月；八戒只能等 | `ch01/p63.md` |
 
 Page images carry no lettering; dialogue and SFX live in the `pNN.md` scripts and get added at the lettering stage.
