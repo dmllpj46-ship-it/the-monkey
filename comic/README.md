@@ -71,5 +71,8 @@ Follow `assets/characters/design-bible.md` for every character in frame. Page no
 | 061 | `ch01/p61.png` | 科研署造出星空探测仪，智能之母锁定五彩星 | `ch01/p61.md` |
 | 062 | `ch01/p62.png` | 智能之母警告：五彩星有五色结界，普通飞行器接触第十一秒解体 | `ch01/p62.md` |
 | 063 | `ch01/p63.png` | 红狐女定下量子穿越方案，但要几个月；八戒只能等 | `ch01/p63.md` |
+| 064 | `ch01/p64.png` | 外星传来询问信号，黑熊认定是智人探测，按死回键不答 | `ch01/p64.md` |
+| 065 | `ch01/p65.png` | 红狐女对着智人档案断言：他们不是走了，是寄存 | `ch01/p65.md` |
+| 066 | `ch01/p66.png` | 兽人军团重编，用智能之母造出单缝屏障与镜阵，洞口列阵 | `ch01/p66.md` |
 
 Page images carry no lettering; dialogue and SFX live in the `pNN.md` scripts and get added at the lettering stage.
