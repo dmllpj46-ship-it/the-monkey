@@ -98,5 +98,10 @@ Follow `assets/characters/design-bible.md` for every character in frame. Page no
 | 088 | `ch01/p88.png` | 链钩先出手；风把风火轮的火焰压成横带，哪吒第一次笑了 | `ch01/p88.md` |
 | 089 | `ch01/p89.png` | 三头六臂法相对四叶铜风轮；平台先被撕开，红孩儿的锚环裂了 | `ch01/p89.md` |
 | 090 | `ch01/p90.png` | 火星贴着锁扣往里烧，红孩儿脱锁站起：「客也能烧房子」 | `ch01/p90.md` |
+| 091 | `ch01/p91.png` | 红孩儿脱锁后先打哪吒：这架是他的，不许人插手 | `ch01/p91.md` |
+| 092 | `ch01/p92.png` | 三人站成三角形；链子先到，把两边分开，黑风怪开口 | `ch01/p92.md` |
+| 093 | `ch01/p93.png` | 火球被风拦停；下压的哪吒被链钩绕脚甩向红孩儿，两人摔成一堆 | `ch01/p93.md` |
+| 094 | `ch01/p94.png` | 哪吒挡下冲红孩儿后心的钩链；红孩儿烧断缠自己的链；「……有意思」 | `ch01/p94.md` |
+| 095 | `ch01/p95.png` | 风墙合拢、整块平台被拆掉；哪吒拽住红孩儿的手腕，两道火光坠进黑里 | `ch01/p95.md` |
 
 Page images carry no lettering; dialogue and SFX live in the `pNN.md` scripts and get added at the lettering stage.
