@@ -82,5 +82,8 @@ Follow `assets/characters/design-bible.md` for every character in frame. Page no
 | 072 | `ch01/p72.png` | 黑熊整编仿制品；红狐女接管舰队数据库，读出五色结界的五层结构 | `ch01/p72.md` |
 | 073 | `ch01/p73.png` | 量子穿越门完工并首次开启：环心裂成几何碎片，八戒问「能过人吗」 | `ch01/p73.md` |
 | 074 | `ch01/p74.png` | 出发：八戒、红狐女与一名仿制品走进光门，黑熊留在院里 | `ch01/p74.md` |
+| 075 | `ch01/p75.png` | 门开在五彩星外层：仿制品把手按进封印，五层壳片外翻；八戒踏上结晶地 | `ch01/p75.md` |
+| 076 | `ch01/p76.png` | 结晶平原与织天巨门；悟空的红帆小船熄在霜里，驾驶座空着 | `ch01/p76.md` |
+| 077 | `ch01/p77.png` | 殿内空座还亮着；信号只有一个——横梁上坐着一个小小的剪影 | `ch01/p77.md` |
 
 Page images carry no lettering; dialogue and SFX live in the `pNN.md` scripts and get added at the lettering stage.
