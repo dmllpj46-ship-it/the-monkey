@@ -109,4 +109,14 @@ Follow `assets/characters/design-bible.md` for every character in frame. Page no
 | 099 | `ch01/p99.png` | 火进风轮、枪捅接缝：面具裂开，螺旋倒转，风开始往回吸 | `ch01/p99.md` |
 | 100 | `ch01/p100.png` | 风停了，星球散了；锚链被砍断，红帆小船贴着碎星飞出去 | `ch01/p100.md` |
 
+## 第二话「同囚」
+
+| 编号 | 文件 | 内容 | 脚本 |
+| --- | --- | --- | --- |
+| 101 | `ch02/p101.png` | 碎星带里的红帆船：红孩儿说「刚才不算」，要打一遍 | `ch02/p101.md` |
+| 102 | `ch02/p102.png` | 甲板上的决斗：劫枪、火焰对撞，船被掀侧，两人抓住同一根绳 | `ch02/p102.md` |
+| 103 | `ch02/p103.png` | 枪尖离喉咙一指、掌火离心口一指；平手，两人瘫在甲板两头 | `ch02/p103.md` |
+| 104 | `ch02/p104.png` | 观音法相覆天，只把光落在红孩儿一人身上：随他去寻唐僧 | `ch02/p104.md` |
+| 105 | `ch02/p105.png` | 法相散成光丝；红孩儿颈上光圈渐暗，「知道了」；船转向航向 | `ch02/p105.md` |
+
 Page images carry no lettering; dialogue and SFX live in the `pNN.md` scripts and get added at the lettering stage.

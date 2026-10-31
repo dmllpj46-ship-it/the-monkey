@@ -1125,6 +1125,71 @@ const pages = [
     ],
     note: "反派唯一一次变小：他不是被击溃，是被抽空；面具先掉，轮子后掉，人还在。船是当初被扣的那条，红帆有补丁；最后一格风仍在，只是不再属于他。",
   },
+  {
+    n: "101", ch: "ch02", slug: "p101", title: "刚才不算",
+    lines: [
+      ["旁白", "星球只剩一半。船还在。"],
+      ["红孩儿", "刚才不算。"],
+      ["哪吒", "什么不算。"],
+      ["红孩儿", "你救过我一次。我不算欠你的——谁厉害，得打一遍。"],
+      ["哪吒", "行。船别打沉。"],
+      ["红孩儿", "船是我的。"],
+      ["哪吒", "那就更别打沉。"],
+    ],
+    note: "红孩儿的长枪留在霸主台上了，没捡回来，这一场他用掌。船必须是 P100 那一条；两人各站一边，中间那块甲板空着。",
+  },
+  {
+    n: "102", ch: "ch02", slug: "p102", title: "甲板",
+    lines: [
+      ["旁白", "第一下，谁也没让。"],
+      ["红孩儿", "抓到了。"],
+      ["哪吒", "松手。"],
+      ["哪吒", "船要翻了。"],
+      ["红孩儿", "翻了也是我的船。"],
+      ["哪吒", "那你先扶稳。"],
+      ["红孩儿", "……你先。"],
+    ],
+    note: "第 2 格抓的是哪吒的枪杆、把火推上去，是「劫枪」不是持枪。第 3 格是火焰对撞而非严格横踢。全页不许出现水面、浪、陆地。",
+  },
+  {
+    n: "103", ch: "ch02", slug: "p103", title: "一指",
+    lines: [
+      ["旁白", "第三十下，第四十下，没有人退。"],
+      ["红孩儿", "你几岁。"],
+      ["哪吒", "比你大。"],
+      ["红孩儿", "骗人。"],
+      ["哪吒", "骗你干什么。"],
+      ["旁白", "谁也没赢。船在碎星里漂。"],
+    ],
+    note: "平手必须是物理的：枪尖和掌心各差一指、同时停住，不是谁心软。第 3 格两人同框，别再补单人。",
+  },
+  {
+    n: "104", ch: "ch02", slug: "p104", title: "法相",
+    lines: [
+      ["旁白", "天亮了。不是太阳。"],
+      ["观音", "火灭了，世界也没了。你还要打给谁看。"],
+      ["观音", "红孩儿。随他去寻唐僧。"],
+      ["红孩儿", "……关你什么事。"],
+      ["红孩儿", "我不去。"],
+      ["旁白", "光落下来，只落在他一个人身上。"],
+      ["红孩儿", "……我去。"],
+    ],
+    note: "法相是天上的巨大显现，半透明、边缘散成光，尺度是船的几十倍，不落地、不接触任何人。千手画成羽状光。光柱只落在红孩儿一人身上——哪吒身上一点光都没有，这是恐惧的来源。",
+  },
+  {
+    n: "105", ch: "ch02", slug: "p105", title: "光散",
+    lines: [
+      ["观音", "找到他。别让他死在半路。"],
+      ["哪吒", "遵命。"],
+      ["观音", "红孩儿。别让我再来一次。"],
+      ["红孩儿", "……知道了。"],
+      ["旁白", "光散了。天还是黑的。"],
+      ["哪吒", "坐稳。"],
+      ["红孩儿", "开你的船。"],
+      ["旁白", "第二话「同囚」，从这里开始。"],
+    ],
+    note: "脖子上那圈光不是金箍，是莲花封印的余温。恐惧是生理的：不喊不骂，只低头、攥拳、光圈亮着。远处的玉白光丝是往后赶路的航向，不是装饰。",
+  },
 ];
 
 const repoUrl = (path) => `${RAW}/${path}`;
@@ -1210,11 +1275,18 @@ function castIndex(slug) {
   return castGallery().findIndex((item) => item.path.includes(`/${slug}.png`));
 }
 
-function renderPages() {
-  const root = document.getElementById("pages-root");
+const pageCh = (page) => page.ch || "ch01";
+const pageLabel = (page) => (pageCh(page) === "ch02" ? "第二话" : "第一话");
+const pagePath = (page) => `comic/${pageCh(page)}/${page.slug}.png`;
+
+function renderPages(rootId, chapter) {
+  const root = document.getElementById(rootId);
+  if (!root) return;
 
   pages.forEach((page, index) => {
-    const path = `comic/ch01/${page.slug}.png`;
+    if (pageCh(page) !== chapter) return;
+
+    const path = pagePath(page);
 
     const article = document.createElement("article");
     article.className = "page";
@@ -1228,7 +1300,7 @@ function renderPages() {
       <a class="page-script" target="_blank" rel="noopener">分镜脚本 ↗</a>`;
     head.querySelector(".page-title").textContent = page.title;
     const scriptLink = head.querySelector(".page-script");
-    scriptLink.href = `https://github.com/dmllpj46-ship-it/the-monkey/blob/main/comic/ch01/${page.slug}.md`;
+    scriptLink.href = `https://github.com/dmllpj46-ship-it/the-monkey/blob/main/comic/${pageCh(page)}/${page.slug}.md`;
     article.appendChild(head);
 
     const figure = document.createElement("figure");
@@ -1236,7 +1308,7 @@ function renderPages() {
     const img = document.createElement("img");
     withFallback(img, path);
     img.src = repoUrl(path);
-    img.alt = `第一话 ${page.title}，第 ${page.n} 页`;
+    img.alt = `${pageLabel(page)} ${page.title}，第 ${page.n} 页`;
     img.loading = index === 0 ? "eager" : "lazy";
     img.decoding = "async";
     figure.appendChild(img);
@@ -1276,8 +1348,8 @@ let current = 0;
 
 function pageGallery() {
   return pages.map((page) => ({
-    path: `comic/ch01/${page.slug}.png`,
-    alt: `第一话 ${page.title}，第 ${page.n} 页`,
+    path: pagePath(page),
+    alt: `${pageLabel(page)} ${page.title}，第 ${page.n} 页`,
     cap: `P${page.n} · ${page.title}`,
   }));
 }
@@ -1326,4 +1398,5 @@ document.addEventListener("keydown", (e) => {
 });
 
 renderCast();
-renderPages();
+renderPages("pages-root", "ch01");
+renderPages("pages-root-2", "ch02");
