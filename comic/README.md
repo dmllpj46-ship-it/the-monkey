@@ -93,5 +93,10 @@ Follow `assets/characters/design-bible.md` for every character in frame. Page no
 | 083 | `ch01/p83.png` | 被押到风暴中央：鸟喙铁面俯视，红孩儿的火被风压熄 | `ch01/p83.md` |
 | 084 | `ch01/p84.png` | 不服出手：火球被让过，链钩把他连人带火甩在甲板上 | `ch01/p84.md` |
 | 085 | `ch01/p85.png` | 假降：低头时嘴角是翘的，背后那只手护着一点没灭的火 | `ch01/p85.md` |
+| 086 | `ch01/p86.png` | 哪吒循着火线追到黑风星：上升的风暴、被扣的红帆船 | `ch01/p86.md` |
+| 087 | `ch01/p87.png` | 霸主台对峙：哪吒要人，黑风怪问拿什么换，红孩儿嫌他添乱 | `ch01/p87.md` |
+| 088 | `ch01/p88.png` | 链钩先出手；风把风火轮的火焰压成横带，哪吒第一次笑了 | `ch01/p88.md` |
+| 089 | `ch01/p89.png` | 三头六臂法相对四叶铜风轮；平台先被撕开，红孩儿的锚环裂了 | `ch01/p89.md` |
+| 090 | `ch01/p90.png` | 火星贴着锁扣往里烧，红孩儿脱锁站起：「客也能烧房子」 | `ch01/p90.md` |
 
 Page images carry no lettering; dialogue and SFX live in the `pNN.md` scripts and get added at the lettering stage.
