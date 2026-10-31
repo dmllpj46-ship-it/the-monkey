@@ -103,5 +103,10 @@ Follow `assets/characters/design-bible.md` for every character in frame. Page no
 | 093 | `ch01/p93.png` | 火球被风拦停；下压的哪吒被链钩绕脚甩向红孩儿，两人摔成一堆 | `ch01/p93.md` |
 | 094 | `ch01/p94.png` | 哪吒挡下冲红孩儿后心的钩链；红孩儿烧断缠自己的链；「……有意思」 | `ch01/p94.md` |
 | 095 | `ch01/p95.png` | 风墙合拢、整块平台被拆掉；哪吒拽住红孩儿的手腕，两道火光坠进黑里 | `ch01/p95.md` |
+| 096 | `ch01/p96.png` | 坠进竖井：井底是没上锁的星核，黑风怪倒着滑下来 | `ch01/p96.md` |
+| 097 | `ch01/p97.png` | 风轮变成进气口，星核被抽成光柱；井口掀开，整块地开始往上飞 | `ch01/p97.md` |
+| 098 | `ch01/p98.png` | 星球在散，两人第一次看同一个问题：让风张嘴，把火烧进去 | `ch01/p98.md` |
+| 099 | `ch01/p99.png` | 火进风轮、枪捅接缝：面具裂开，螺旋倒转，风开始往回吸 | `ch01/p99.md` |
+| 100 | `ch01/p100.png` | 风停了，星球散了；锚链被砍断，红帆小船贴着碎星飞出去 | `ch01/p100.md` |
 
 Page images carry no lettering; dialogue and SFX live in the `pNN.md` scripts and get added at the lettering stage.
