@@ -85,5 +85,9 @@ Follow `assets/characters/design-bible.md` for every character in frame. Page no
 | 075 | `ch01/p75.png` | 门开在五彩星外层：仿制品把手按进封印，五层壳片外翻；八戒踏上结晶地 | `ch01/p75.md` |
 | 076 | `ch01/p76.png` | 结晶平原与织天巨门；悟空的红帆小船熄在霜里，驾驶座空着 | `ch01/p76.md` |
 | 077 | `ch01/p77.png` | 殿内空座还亮着；信号只有一个——横梁上坐着一个小小的剪影 | `ch01/p77.md` |
+| 078 | `ch01/p78.png` | 悟空落地，与八戒重逢；船熄、法力没了，「门在，路不在」 | `ch01/p78.md` |
+| 079 | `ch01/p79.png` | 女娲那句「你是哪个猴子，在找哪个师傅」；仿制品读成多元宇宙；梁间多个悟空剪影 | `ch01/p79.md` |
+| 080 | `ch01/p80.png` | 四人过门返回；悟空的最后一眼之后，结晶台空了，门熄了 | `ch01/p80.md` |
+| 081 | `ch01/p81.png` | 兽星大厅：黑熊迎上来，「欢迎回家」 | `ch01/p81.md` |
 
 Page images carry no lettering; dialogue and SFX live in the `pNN.md` scripts and get added at the lettering stage.
