@@ -123,5 +123,10 @@ Follow `assets/characters/design-bible.md` for every character in frame. Page no
 | 108 | `ch02/p108.png` | 唐僧借沙僧的手示范「碰」；石头相扣，拼成星球第一只手 | `ch02/p108.md` |
 | 109 | `ch02/p109.png` | 星球搬出记忆：唐僧的逃生舱，与一排无脸的白骨人石像 | `ch02/p109.md` |
 | 110 | `ch02/p110.png` | 尘上画星图、放石成句；一条石子路铺向天边，天上有玉白航向 | `ch02/p110.md` |
+| 111 | `ch02/p111.png` | 红帆船落在林间石路；哪吒与红孩儿分头去找，一左一右 | `ch02/p111.md` |
+| 112 | `ch02/p112.png` | 红孩儿先找到唐僧与沙僧，确认身份后仍出手试探；石头开始升起来 | `ch02/p112.md` |
+| 113 | `ch02/p113.png` | 唐僧让星球站成一列列无脸石兵，肩碰肩围住红孩儿；烧碎一排又补一排 | `ch02/p113.md` |
+| 114 | `ch02/p114.png` | 红孩儿冲破石阵直取唐僧，哪吒赶到，一枪插在掌火与脸之间 | `ch02/p114.md` |
+| 115 | `ch02/p115.png` | 「这星球是活的」；石兵沉回地里，唐僧摸焦石；石像排向远方，钩子「还有人在来」 | `ch02/p115.md` |
 
 Page images carry no lettering; dialogue and SFX live in the `pNN.md` scripts and get added at the lettering stage.
