@@ -79,5 +79,8 @@ Follow `assets/characters/design-bible.md` for every character in frame. Page no
 | 069 | `ch01/p69.png` | 战场残骸：才焊上三天的盾架全碎；八戒从烟里走出来 | `ch01/p69.md` |
 | 070 | `ch01/p70.png` | 八戒独闯母舰，砸碎六角青柱；敌人在碎核心前停住 | `ch01/p70.md` |
 | 071 | `ch01/p71.png` | 撬开胸口：没有骨与血，只有电芯与冷却液；成排休眠的仿制品 | `ch01/p71.md` |
+| 072 | `ch01/p72.png` | 黑熊整编仿制品；红狐女接管舰队数据库，读出五色结界的五层结构 | `ch01/p72.md` |
+| 073 | `ch01/p73.png` | 量子穿越门完工并首次开启：环心裂成几何碎片，八戒问「能过人吗」 | `ch01/p73.md` |
+| 074 | `ch01/p74.png` | 出发：八戒、红狐女与一名仿制品走进光门，黑熊留在院里 | `ch01/p74.md` |
 
 Page images carry no lettering; dialogue and SFX live in the `pNN.md` scripts and get added at the lettering stage.
