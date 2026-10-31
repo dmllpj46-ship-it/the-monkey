@@ -118,5 +118,10 @@ Follow `assets/characters/design-bible.md` for every character in frame. Page no
 | 103 | `ch02/p103.png` | 枪尖离喉咙一指、掌火离心口一指；平手，两人瘫在甲板两头 | `ch02/p103.md` |
 | 104 | `ch02/p104.png` | 观音法相覆天，只把光落在红孩儿一人身上：随他去寻唐僧 | `ch02/p104.md` |
 | 105 | `ch02/p105.png` | 法相散成光丝；红孩儿颈上光圈渐暗，「知道了」；船转向航向 | `ch02/p105.md` |
+| 106 | `ch02/p106.png` | 无尘星：石头复读唐僧的动作与两人形状，却不懂方向 | `ch02/p106.md` |
+| 107 | `ch02/p107.png` | 石头从不彼此相触；整片空地退到边缘，让出中央 | `ch02/p107.md` |
+| 108 | `ch02/p108.png` | 唐僧借沙僧的手示范「碰」；石头相扣，拼成星球第一只手 | `ch02/p108.md` |
+| 109 | `ch02/p109.png` | 星球搬出记忆：唐僧的逃生舱，与一排无脸的白骨人石像 | `ch02/p109.md` |
+| 110 | `ch02/p110.png` | 尘上画星图、放石成句；一条石子路铺向天边，天上有玉白航向 | `ch02/p110.md` |
 
 Page images carry no lettering; dialogue and SFX live in the `pNN.md` scripts and get added at the lettering stage.
