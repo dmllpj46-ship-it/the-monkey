@@ -74,5 +74,10 @@ Follow `assets/characters/design-bible.md` for every character in frame. Page no
 | 064 | `ch01/p64.png` | 外星传来询问信号，黑熊认定是智人探测，按死回键不答 | `ch01/p64.md` |
 | 065 | `ch01/p65.png` | 红狐女对着智人档案断言：他们不是走了，是寄存 | `ch01/p65.md` |
 | 066 | `ch01/p66.png` | 兽人军团重编，用智能之母造出单缝屏障与镜阵，洞口列阵 | `ch01/p66.md` |
+| 067 | `ch01/p67.png` | 智人先锋舰队压到兽星上空，黑熊认出「骨头白、青缝」的制式 | `ch01/p67.md` |
+| 068 | `ch01/p68.png` | 舰队齐射：笔直的青白光柱落向废铁地表，黑熊扑身护住小兽人 | `ch01/p68.md` |
+| 069 | `ch01/p69.png` | 战场残骸：才焊上三天的盾架全碎；八戒从烟里走出来 | `ch01/p69.md` |
+| 070 | `ch01/p70.png` | 八戒独闯母舰，砸碎六角青柱；敌人在碎核心前停住 | `ch01/p70.md` |
+| 071 | `ch01/p71.png` | 撬开胸口：没有骨与血，只有电芯与冷却液；成排休眠的仿制品 | `ch01/p71.md` |
 
 Page images carry no lettering; dialogue and SFX live in the `pNN.md` scripts and get added at the lettering stage.
