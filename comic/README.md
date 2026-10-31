@@ -55,5 +55,10 @@ Follow `assets/characters/design-bible.md` for every character in frame. Page no
 | 045 | `ch01/p45.png` | 兽类觉醒智能；智人撤离，留下「统治兽人」的指令 | `ch01/p45.md` |
 | 046 | `ch01/p46.png` | 八戒主张重启智能之母、但切断它的网络 | `ch01/p46.md` |
 | 047 | `ch01/p47.png` | 黑熊准议，成立隔离的科研署，红狐女负责 | `ch01/p47.md` |
+| 048 | `ch01/p48.png` | 镜头转到唐僧与沙僧：两人在原始森林星醒来，巨树直插云层 | `ch01/p48.md` |
+| 049 | `ch01/p49.png` | 沙僧安顿师傅、取水采果，发现这里干净得反常 | `ch01/p49.md` |
+| 050 | `ch01/p50.png` | 徒步数日毫无头绪，记号比路还多；树根丘上出现几何形洞口 | `ch01/p50.md` |
+| 051 | `ch01/p51.png` | 唐僧听见洞里低吟，入内搜查——空无一物，只有满地美石 | `ch01/p51.md` |
+| 052 | `ch01/p52.png` | 石头离地自由组合、仿出形状；沙僧发现自己能指挥它们 | `ch01/p52.md` |
 
 Page images carry no lettering; dialogue and SFX live in the `pNN.md` scripts and get added at the lettering stage.
