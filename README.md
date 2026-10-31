@@ -26,10 +26,11 @@ The scriptures are gone. In their place, a signal older than the stars pulses at
 | 巡逻机器人 | `patrol-robot` | 兽星机械执法者 · 量产型 | 楔形长头、横向冷青视镜、枪灰装甲配危险黄斜带、三指夹钳、电击长杆、背部折叠副臂 |
 | 红狐女 | `red-fox` | 兽星地下黑帮头目 · 半机械化 | 赤红狐首、单只瞄准义眼、颌侧金属板、左臂义肢、一真两机械三尾、暗红毛领、等离子撬棍 |
 | 黑熊 | `black-bear` | 兽星地下组织头目 · 实为抵抗军统帅 | 炭黑熊首、灰白口鼻、左眼竖疤、胸口骨白月牙、肩挂机器人头颅绶带、土褐油布大衣、黑缨长枪 |
+| 黑风怪 | `black-wind` | 黑风星霸主 · 扣押过路船的军阀 | 长弯鸟喙铁面、单只铜框风针义眼、黑羽领、背后四叶铜风轮、碎成黑气的斗篷下摆、双链钩 |
 | 智人 | `sapiens` | 消失的建造者种族 · 科研站主人 | 光头无眉、石墨耳甲配青缝、鬓角青色电路线、颅后悬浮数据环、骨白石墨紧身甲、姜金胸带、六角青色胸核、指挥杆 |
 | 智能之母 | `mother-mind` | 兽星统治者 · 巨型球形运算中枢 | 山岳级枪灰球体、危险黄斜带、成千上万单缝冷青视镜、中央巨大横向主视镜、底部脐带管线插入发光能源井 |
 
-Full design specs — colors, silhouettes, props, do-not-change list — live in [`assets/characters/design-bible.md`](assets/characters/design-bible.md). **Those sixteen anchors are the single source of truth for character consistency.**
+Full design specs — colors, silhouettes, props, do-not-change list — live in [`assets/characters/design-bible.md`](assets/characters/design-bible.md). **Those seventeen anchors are the single source of truth for character consistency.**
 
 ## Visual style
 
@@ -71,8 +72,9 @@ site/                在线阅读站（Cloudflare Pages 部署源）
 20. ✅ 第一话 072–074：兽星线——黑熊整编仿制品、红狐女从舰队库拿到五色结界数据 → 量子穿越门完工并开启 → 出发队伍：八戒、红狐女与一名仿制品
 21. ✅ 第一话 075–077：穿越抵达五彩星——仿制品开启五层封印 → 结晶平原与熄火的红帆小船、空驾驶座 → 织天殿内只剩一个生命信号，横梁上的剪影
 22. ✅ 第一话 078–081：重逢与返程——悟空与八戒叙旧、说出女娲那句「哪个猴子、哪个师傅」→ 仿制品读成多元宇宙，众人愕然 → 过门返回兽星 → 黑熊迎接：「欢迎回家」
-23. 第二话「同囚」：四条线（悟空 / 红孩儿 / 八戒 / 唐僧与沙僧）各自的起头
-24. 补全其他反派与配角：白骨精（赏金猎人）；对白上字
+23. ✅ 第一话 082–085：黑风怪定妆；红孩儿途经黑风星补给被扣押 → 火被风压熄、出手被链钩甩回 → 假降，背后藏一点火
+24. 第二话「同囚」：四条线（悟空 / 红孩儿 / 八戒 / 唐僧与沙僧）各自的起头
+25. 补全其他反派与配角：白骨精（赏金猎人）；对白上字
 
 ## License
 

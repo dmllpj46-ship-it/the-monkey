@@ -89,5 +89,9 @@ Follow `assets/characters/design-bible.md` for every character in frame. Page no
 | 079 | `ch01/p79.png` | 女娲那句「你是哪个猴子，在找哪个师傅」；仿制品读成多元宇宙；梁间多个悟空剪影 | `ch01/p79.md` |
 | 080 | `ch01/p80.png` | 四人过门返回；悟空的最后一眼之后，结晶台空了，门熄了 | `ch01/p80.md` |
 | 081 | `ch01/p81.png` | 兽星大厅：黑熊迎上来，「欢迎回家」 | `ch01/p81.md` |
+| 082 | `ch01/p82.png` | 红孩儿在黑风星补给；磁力抓钩扣住飞船，黑甲人从风里围上来 | `ch01/p82.md` |
+| 083 | `ch01/p83.png` | 被押到风暴中央：鸟喙铁面俯视，红孩儿的火被风压熄 | `ch01/p83.md` |
+| 084 | `ch01/p84.png` | 不服出手：火球被让过，链钩把他连人带火甩在甲板上 | `ch01/p84.md` |
+| 085 | `ch01/p85.png` | 假降：低头时嘴角是翘的，背后那只手护着一点没灭的火 | `ch01/p85.md` |
 
 Page images carry no lettering; dialogue and SFX live in the `pNN.md` scripts and get added at the lettering stage.
