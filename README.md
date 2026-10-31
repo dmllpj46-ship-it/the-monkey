@@ -4,6 +4,13 @@ A Japanese-manga-style space opera retelling of *Journey to the West* — a comi
 
 **[在线阅读 → the-monkey-2z2.pages.dev](https://the-monkey-2z2.pages.dev/)** · 站点图片直连本仓库，推送到 `main` 后重新部署即同步。
 
+## 进度
+
+- **第一话「裂空」001–100 · 完结**
+- **第二话「同囚」101–115 · 连载中** — 无尘星上的石军之战已收场：红孩儿与哪吒分头寻人，红孩儿先找到唐僧、放火烧阵，哪吒一枪截住；石头沉回地里，远处石人齐齐指向同一个方向，星球说「还有人在来」。
+
+共 115 页，`comic/chNN/pNN.png` 为成页，同目录 `pNN.md` 为分镜脚本与偏差记录。角色设定与不可改清单见 [`assets/characters/design-bible.md`](assets/characters/design-bible.md)。
+
 ## Logline
 
 The scriptures are gone. In their place, a signal older than the stars pulses at the galactic core. A monkey-shaped outlaw, a fire-cult prince, an imperial ace and a three-eyed hunter-general are dragged onto the same ship, escorting a relic they do not understand — while the celestial armada, the fire fleets and the void itself close in.
@@ -44,8 +51,10 @@ Full design specs — colors, silhouettes, props, do-not-change list — live in
 ```
 assets/characters/   角色设定图（一致性基准）+ 设计圣经
 assets/cover.png     第一话封面
-comic/               正篇漫画分页与分镜脚本（pNN.png + pNN.md）
-site/                在线阅读站（Cloudflare Pages 部署源）
+comic/ch01/          第一话「裂空」001–100
+comic/ch02/          第二话「同囚」101– 连载中
+comic/README.md      分页总表（每页一句话摘要）
+site/                在线阅读站（Cloudflare Pages 部署源，无构建步骤）
 ```
 
 ## Roadmap
