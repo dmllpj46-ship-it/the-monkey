@@ -65,5 +65,8 @@ Follow `assets/characters/design-bible.md` for every character in frame. Page no
 | 055 | `ch01/p55.png` | 炉门堡垒前，红孩儿逼问牛魔王孙悟空的下落 | `ch01/p55.md` |
 | 056 | `ch01/p56.png` | 父子动手；红孩儿一枪捅穿炉管肩甲，牛魔王落败 | `ch01/p56.md` |
 | 057 | `ch01/p57.png` | 铁扇公主挡在父子之间，指向五彩石星：他往那儿去了 | `ch01/p57.md` |
+| 058 | `ch01/p58.png` | 溺亡殖民星：哪吒一枪捅爆水龙怪，无聊地甩枪 | `ch01/p58.md` |
+| 059 | `ch01/p59.png` | 云层裂开，观音法相报信：莲花里的火灭了 | `ch01/p59.md` |
+| 060 | `ch01/p60.png` | 哪吒冷笑领命：「带回来。活的。」→ 一道火线穿云而去 | `ch01/p60.md` |
 
 Page images carry no lettering; dialogue and SFX live in the `pNN.md` scripts and get added at the lettering stage.
